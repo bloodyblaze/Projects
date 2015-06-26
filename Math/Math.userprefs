@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Addition.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Global.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Addition.cs" Line="26" Column="1" />
+      <File FileName="Assets\Scripts\AdditionSpawner.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\AdditionResponse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdditionRound.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AdditionEquation.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
